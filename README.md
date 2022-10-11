@@ -1,13 +1,9 @@
 # IBM-Project-31365-1660199867
 
 
-Team Lead
-Vetrivel
+IoT Based Safety Gadget for Child Safety Monitoring & Notification
 
-Team Members
 
-1. Yokeshwaran
+Team Lead K.Vetrivel
 
-2. Thirumoorthy
-
-3. Vignesh
+Team Members 1. Yokeshwaran  2. Thirumoorthy  3. Vignesh
