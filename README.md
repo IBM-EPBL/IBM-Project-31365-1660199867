@@ -20,7 +20,8 @@ parameters like heart beat/pulse rate and temperature is included
 which can be monitored on parental app. Gadget also monitors
 whether it is plugged on hand or not using contact switch and alert
 the parent as soon as it is unplugged. 
-
+  
+  
 
 Team Lead K.Vetrivel
 
