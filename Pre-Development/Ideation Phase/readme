@@ -1,20 +1,8 @@
-The internet of things (IoT) refers to the set of devices and
-system that stay interconnected with real-world sensor and to
-the internet. During years’ Child safety is under threat and it is
-very important to provide a technology-based solution which
-will help them under panic situations and monitor them using a
-smart gadget. The proposed system is equipped with GSM and
-GPS modules for sending and receiving call and SMS between
-safety gadget and parental phone, the proposed system also
-consists of Wi-Fi module used to implement IoT and send all
-the monitoring parameters to the cloud for android app
-monitoring on parental phone. Android application can be used
-to track the current location of safety gadget using its location
-coordinates on parental phone android app and also via SMS
-request from parent phone to safety gadget. Panic alert system
-is used during panic situations and automatic SMS alert and
-phone call is triggered from safety gadget to the parental phone
-seeking for help and also monitored for plug and unplug from
-hand, as soon the gadget is unplugged from hand a SMS is
-triggered to parental phone and the alert parameter is also
+The internet of things (IoT) refers to the set of devices and system that stay interconnected with real-world sensor and to the internet. During years’ Child safety is 
+under threat and it is very important to provide a technology-based solution which will help them under panic situations and monitor them using asmart gadget. 
+The proposed system is equipped with GSM and GPS modules for sending and receiving call and SMS between safety gadget and parental phone, the proposed system also
+consists of Wi-Fi module used to implement IoT and send all the monitoring parameters to the cloud for android app monitoring on parental phone. Android application can 
+be used to track the current location of safety gadget using its location coordinates on parental phone android app and also via SMS request from parent phone to 
+safety gadget. Panic alert system is used during panic situations and automatic SMS alert and phone call is triggered from safety gadget to the parental phoneseeking for
+help and also monitored for plug and unplug from hand, as soon the gadget is unplugged from hand a SMS is triggered to parental phone and the alert parameter is also
 updated to the cloud. 
